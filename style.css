@@ -1,0 +1,17 @@
+body {
+  background-color: #FFE;
+  border: 2px solid black;
+  padding-left: 5px;
+}
+ol{
+  color: #887;
+}
+h3,p {
+  color; black;
+}
+a {
+  color: #900;
+}
+img {
+   border:5px solid black;
+}
